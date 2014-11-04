@@ -2,7 +2,6 @@
  * In this file you should write your main styles. (or centralize your imports)
  * Import this file using the following HTML or equivalent:
  *<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
-@import url(http://fonts.googleapis.com/css?family=Lora);
 /* line 5, ../../../../Ruby/Gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scss */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -163,7 +162,7 @@ a.list-group-item.active, [class*='-info'] {
 
 /* line 90, ../sass/screen.scss */
 #testimonal, #section7, #section7 a {
-  color: #f5f5f5;
+  color: #893823;
 }
 
 /* line 94, ../sass/screen.scss */

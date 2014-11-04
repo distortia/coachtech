@@ -37,6 +37,8 @@ include "includes/header.php";
 		Coach Tech is based on the belief that our customers' needs are of the utmost importance. 
 		Our entire team is committed to meeting those needs. As a result, a high percentage of our business is from repeat customers and referrals.
 		We would welcome the opportunity to earn your trust and deliver you the best service in the industry.
+		</p>
+		<p>
 		Location:
 		Mobile Service
 		Due to heavy work load during the camping season our phones are always on and your call will be returned outside of our business hours.
@@ -45,7 +47,7 @@ include "includes/header.php";
 		Sat: 10AM - 5PM
 		Sun: Closed</p>
         <br> 
-      	<i style="font-size:120px" class="fa fa-wrench fa-5x"></i>
+      	<i style="font-size:120px" class="fa fa-bus fa-5x"></i>
     </div>
   </div>
 </section>
@@ -82,95 +84,11 @@ include "includes/header.php";
     <div class="container">
     <div class="row">
       <div class="col-sm-4 col-xs-12">
-            <div class="list-group">
-              <a href="#" class="list-group-item active">
-                <h2 class="list-group-item-heading">Basic</h2>
-                <h6>Free to get started</h6>
-              </a>
-              <a href="#" class="list-group-item">
-                <p class="list-group-item-text">Option 100 - more about this</p>
-              </a>
-              <a href="#" class="list-group-item">
-                <p class="list-group-item-text">Option 2 - this is more about this</p>
-              </a>
-              <a href="#" class="list-group-item">
-                <p class="list-group-item-text">Option 3 GB</p>
-              </a>
-              <a href="#" class="list-group-item">
-                <p class="list-group-item-text">Option 4</p>
-              </a>
-              <a href="#" class="list-group-item">
-                <p class="list-group-item-text">Feature</p>
-              </a>
-              <a href="#" class="list-group-item">
-                <p class="list-group-item-text">Feature</p>
-              </a>
-              <a href="#" class="list-group-item">
-                <button class="btn btn-primary btn-lg btn-block">Get Started</button>
-              </a>
-            </div>
-      </div><!--/left-->
-      
-      <div class="col-sm-4 col-xs-12">
-            <div class="list-group text-center">
-              <a href="#" class="list-group-item active">
-                <h2 class="list-group-item-heading">Better</h2>
-                <h6>Most popular plan</h6>
-              </a>
-              <a href="#" class="list-group-item">
-                <p class="list-group-item-text">Option 200 - more about this</p>
-              </a>
-              <a href="#" class="list-group-item">
-                <p class="list-group-item-text">Option 2 - this is more about this</p>
-              </a>
-              <a href="#" class="list-group-item">
-                <p class="list-group-item-text">Option 5 GB</p>
-              </a>
-              <a href="#" class="list-group-item">
-                <p class="list-group-item-text">Option 6</p>
-              </a>
-              <a href="#" class="list-group-item">
-                <p class="list-group-item-text">Feature</p>
-              </a>
-              <a href="#" class="list-group-item">
-                <p class="list-group-item-text">Feature</p>
-              </a>
-              <a href="#" class="list-group-item">
-                <button class="btn btn-default btn-lg btn-block">$10 per month</button>
-              </a>
-            </div>
-      </div><!--/middle-->
-      
-      <div class="col-sm-4 col-xs-12">
-            <div class="list-group text-right">
-              <a href="#" class="list-group-item active">
-                <h2 class="list-group-item-heading">Best</h2>
-                <h6>For enterprise grade</h6>
-              </a>
-              <a href="#" class="list-group-item">
-                <p class="list-group-item-text">Option 100 - more about this</p>
-              </a>
-              <a href="#" class="list-group-item">
-                <p class="list-group-item-text">Option 2 - this is more about this</p>
-              </a>
-              <a href="#" class="list-group-item">
-                <p class="list-group-item-text">Option 8 GB</p>
-              </a>
-              <a href="#" class="list-group-item">
-                <p class="list-group-item-text">Option 10</p>
-              </a>
-              <a href="#" class="list-group-item">
-                <p class="list-group-item-text">Unlimited</p>
-              </a>
-              <a href="#" class="list-group-item">
-                <p class="list-group-item-text">Unlimited</p>
-              </a>
-              <a href="#" class="list-group-item">
-                <button class="btn btn-default btn-lg btn-block">$20 per month</button>
-              </a>
-            </div>
-      </div><!--/right-->
-      
+      <i class="fa fa-quote-left"></i>
+      <p class="text-center"> </p>  
+<i class="fa fa-quote-right"></i>
+            
+      </div>
     </div><!--/row-->
     </div><!--/container--> 
   </div>
