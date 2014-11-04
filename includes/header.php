@@ -12,7 +12,7 @@
 		<!--[if lt IE 9]>
 			<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
-		<link href="stylesheets/styles.css" rel="stylesheet">
+		<link href="stylesheets/screen.css" rel="stylesheet">
 	</head>
 	<body>
 <nav class="navbar navbar-trans navbar-fixed-top" role="navigation">

@@ -4,7 +4,7 @@ include "includes/header.php";
 
 
 <section class="container-fluid" id="section1">
-  	<h1 class="text-center v-center">Sectionalize.</h1>
+  	<h1 class="text-center v-center">Coach Tech RV Services</h1>
  	
   	<div class="container">
       <div class="row">
@@ -52,7 +52,7 @@ include "includes/header.php";
           <div class="col-xs-4 text-right">Anyhoo, this is just some random blurb of text, and Bootply.com is a playground and code editor for Bootstrap.</div>
         </div>
         <p class="text-center">
-          <img src="/assets/example/img_mtnpeople.png" class="img-responsive center-block ">
+          <img src="images/landscape.jpg" class="img-responsive center-block ">
         </p>
       </div>
    </div>
