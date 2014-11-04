@@ -20,7 +20,7 @@ author: bootply.com
 
 html,body {
 	height:100%;
-    background:center no-repeat fixed url('images/landscape.jpg');
+    background:center no-repeat fixed url('/coachtech/images/landscape.jpg');
     background-size: cover;
 }
 
@@ -69,8 +69,7 @@ a.list-group-item.active,[class*='-info'] {
 }
   
 #section1 {
-	//background-color: #168ccc;
-    background-image: center no-repeat fixed url('images/landscape.jpg');
+	background-color: #168ccc;
     color:#dedeff;
 }
   

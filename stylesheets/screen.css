@@ -81,7 +81,7 @@ author: bootply.com
 /* line 21, ../sass/screen.scss */
 html, body {
   height: 100%;
-  background: center no-repeat fixed url("images/landscape.jpg");
+  background: center no-repeat fixed url("/coachtech/images/landscape.jpg");
   background-size: cover;
 }
 
@@ -140,40 +140,40 @@ a.list-group-item.active, [class*='-info'] {
 
 /* line 71, ../sass/screen.scss */
 #section1 {
-  background-image: center no-repeat fixed url("images/landscape.jpg");
+  background-color: #168ccc;
   color: #dedeff;
 }
 
-/* line 77, ../sass/screen.scss */
+/* line 76, ../sass/screen.scss */
 #section2 {
   background-color: #e5e5ef;
   color: #686868;
 }
 
-/* line 82, ../sass/screen.scss */
+/* line 81, ../sass/screen.scss */
 #section3 {
   background-color: #168ccc;
   color: #ddd;
 }
 
-/* line 87, ../sass/screen.scss */
+/* line 86, ../sass/screen.scss */
 #section4 {
   background-color: #fff;
   color: #444;
 }
 
-/* line 92, ../sass/screen.scss */
+/* line 91, ../sass/screen.scss */
 #section5, #section7, #section7 a {
   color: #f5f5f5;
 }
 
-/* line 96, ../sass/screen.scss */
+/* line 95, ../sass/screen.scss */
 #section6 {
   background-color: #168ccc;
   color: #ddd;
 }
 
-/* line 101, ../sass/screen.scss */
+/* line 100, ../sass/screen.scss */
 footer {
   background-color: #494949;
   color: #ddd;
@@ -182,13 +182,13 @@ footer {
   padding-bottom: 40px;
 }
 
-/* line 109, ../sass/screen.scss */
+/* line 108, ../sass/screen.scss */
 footer .nav > li > a {
   padding: 3px;
   color: #ccc;
 }
 
-/* line 114, ../sass/screen.scss */
+/* line 113, ../sass/screen.scss */
 footer .nav > li > a:hover {
   background-color: transparent;
   color: #fff;
