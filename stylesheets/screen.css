@@ -191,3 +191,9 @@ footer .nav > li > a:hover {
   background-color: transparent;
   color: #fff;
 }
+
+/* line 118, ../sass/screen.scss */
+.navbar-brand img {
+  height: 152px;
+  width: 152px;
+}

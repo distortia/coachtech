@@ -31,7 +31,7 @@
       <div class="col-xs-6 col-md-3 column">          
           <h4>Customer Service</h4>
           <ul class="nav">
-            <li><a href="#about">About Us</a></li>
+            <li><a href="#">About Us</a></li>
             <li><a href="#">Delivery Information</a></li>
             <li><a href="#">Privacy Policy</a></li>
             <li><a href="#">Terms &amp; Conditions</a></li>
@@ -43,8 +43,7 @@
 
 	<!-- script references -->
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
-		<script src="/coachtech/javascripts/bootstrap.min.js"></script>
-		<script src="/coachtech/javascripts/scripts.js"></script>
+		<script src="/bstheme/js/bootstrap.min.js"></script>
+		<script src="/bstheme/js/scripts.js"></script>
 	</body>
 </html>
-

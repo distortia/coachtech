@@ -1,9 +1,5 @@
-<?php 
-include "includes/header.php"; 
-?>
-
-
-<section class="container-fluid" id="top">
+<?php include  __DIR__."/includes/header.php"; ?>
+<section class="container-fluid" id="home">
   	<h1 class="text-center v-center">Coach Tech RV Services</h1>
  	
   	<div class="container">
@@ -33,19 +29,10 @@ include "includes/header.php";
   	<div class="col-sm-8 col-sm-offset-2 text-center">
         <h1>What is Coach Tech?</h1>
         <br>
-		<p class="lead">
-		Coach Tech is based on the belief that our customers' needs are of the utmost importance. 
-		Our entire team is committed to meeting those needs. As a result, a high percentage of our business is from repeat customers and referrals.
-		We would welcome the opportunity to earn your trust and deliver you the best service in the industry.
-		</p>
-		<p>
-		Location:
-		Mobile Service
-		Due to heavy work load during the camping season our phones are always on and your call will be returned outside of our business hours.
-		Hours:
-		Mon - Fri: 8AM - 5PM
-		Sat: 10AM - 5PM
-		Sun: Closed</p>
+		<p class="lead">Coach Tech is based on the belief that our customers' needs are of the utmost importance. 
+    Our entire team is committed to meeting those needs. As a result, a high percentage of our business is from repeat customers and referrals.
+    We would welcome the opportunity to earn your trust and deliver you the best service in the industry.
+    </p>
         <br> 
       	<i style="font-size:120px" class="fa fa-bus fa-5x"></i>
     </div>
@@ -63,18 +50,18 @@ include "includes/header.php";
           <div class="col-xs-4 text-right">Anyhoo, this is just some random blurb of text, and Bootply.com is a playground and code editor for Bootstrap.</div>
         </div>
         <p class="text-center">
-          <img src="images/landscape2.jpg" class="img-responsive center-block ">
+          <img src="/assets/example/img_mtnpeople.png" class="img-responsive center-block ">
         </p>
       </div>
    </div>
 </section>
 
 <section class="container-fluid" id="catalog">
-	<h2 class="text-center">Please click on the catalog link below to access over 14,000 parts and accessories.</h2>
+	<h2 class="text-center">Please check out our catalog of parts and accessories!</h2>
     <div class="row">
       <div class="col-sm-8 col-sm-offset-2">
-      <!-- <img src="/coachtech/images/landscape3.jpg" class="img-responsive center-block "> -->
-      <p class="text-center"><a href="http://www.rvlifestyles.net/order.aspx?magic=KJMBV70512115231313">Click here for catalog.</p>
+      <img src="/assets/example/bg_smartphones.jpg" class="img-responsive center-block ">
+      <p class="text-center">Images will scale down proportionately as browser width narrows.</p>
       </div>
     </div>
 </section>
@@ -84,11 +71,95 @@ include "includes/header.php";
     <div class="container">
     <div class="row">
       <div class="col-sm-4 col-xs-12">
-      <i class="fa fa-quote-left"></i>
-      <p class="text-center"> </p>  
-<i class="fa fa-quote-right"></i>
-            
-      </div>
+            <div class="list-group">
+              <a href="#" class="list-group-item active">
+                <h2 class="list-group-item-heading">Basic</h2>
+                <h6>Free to get started</h6>
+              </a>
+              <a href="#" class="list-group-item">
+                <p class="list-group-item-text">Option 100 - more about this</p>
+              </a>
+              <a href="#" class="list-group-item">
+                <p class="list-group-item-text">Option 2 - this is more about this</p>
+              </a>
+              <a href="#" class="list-group-item">
+                <p class="list-group-item-text">Option 3 GB</p>
+              </a>
+              <a href="#" class="list-group-item">
+                <p class="list-group-item-text">Option 4</p>
+              </a>
+              <a href="#" class="list-group-item">
+                <p class="list-group-item-text">Feature</p>
+              </a>
+              <a href="#" class="list-group-item">
+                <p class="list-group-item-text">Feature</p>
+              </a>
+              <a href="#" class="list-group-item">
+                <button class="btn btn-primary btn-lg btn-block">Get Started</button>
+              </a>
+            </div>
+      </div><!--/left-->
+      
+      <div class="col-sm-4 col-xs-12">
+            <div class="list-group text-center">
+              <a href="#" class="list-group-item active">
+                <h2 class="list-group-item-heading">Better</h2>
+                <h6>Most popular plan</h6>
+              </a>
+              <a href="#" class="list-group-item">
+                <p class="list-group-item-text">Option 200 - more about this</p>
+              </a>
+              <a href="#" class="list-group-item">
+                <p class="list-group-item-text">Option 2 - this is more about this</p>
+              </a>
+              <a href="#" class="list-group-item">
+                <p class="list-group-item-text">Option 5 GB</p>
+              </a>
+              <a href="#" class="list-group-item">
+                <p class="list-group-item-text">Option 6</p>
+              </a>
+              <a href="#" class="list-group-item">
+                <p class="list-group-item-text">Feature</p>
+              </a>
+              <a href="#" class="list-group-item">
+                <p class="list-group-item-text">Feature</p>
+              </a>
+              <a href="#" class="list-group-item">
+                <button class="btn btn-default btn-lg btn-block">$10 per month</button>
+              </a>
+            </div>
+      </div><!--/middle-->
+      
+      <div class="col-sm-4 col-xs-12">
+            <div class="list-group text-right">
+              <a href="#" class="list-group-item active">
+                <h2 class="list-group-item-heading">Best</h2>
+                <h6>For enterprise grade</h6>
+              </a>
+              <a href="#" class="list-group-item">
+                <p class="list-group-item-text">Option 100 - more about this</p>
+              </a>
+              <a href="#" class="list-group-item">
+                <p class="list-group-item-text">Option 2 - this is more about this</p>
+              </a>
+              <a href="#" class="list-group-item">
+                <p class="list-group-item-text">Option 8 GB</p>
+              </a>
+              <a href="#" class="list-group-item">
+                <p class="list-group-item-text">Option 10</p>
+              </a>
+              <a href="#" class="list-group-item">
+                <p class="list-group-item-text">Unlimited</p>
+              </a>
+              <a href="#" class="list-group-item">
+                <p class="list-group-item-text">Unlimited</p>
+              </a>
+              <a href="#" class="list-group-item">
+                <button class="btn btn-default btn-lg btn-block">$20 per month</button>
+              </a>
+            </div>
+      </div><!--/right-->
+      
     </div><!--/row-->
     </div><!--/container--> 
   </div>
@@ -101,8 +172,8 @@ include "includes/header.php";
     
 </section>
 
-<section class="container" id="section7">
-	<h1 class="text-center">Social Media Fascination</h1>
+<section class="container" id="contactus">
+	<h1 class="text-center">Contact us!</h1>
     <div class="row">
       <!--fontawesome icons-->
       <div class="col-sm-1 col-sm-offset-2 col-xs-4 text-center">
@@ -134,15 +205,9 @@ include "includes/header.php";
   	<div class="col-md-12 text-center">
       <br><br>
       <p>
-    	<a href="http://www.bootstrapzero.com/bootstrap-template/sectionalize">Get the code for this template.</a>
+    	Stuff here
       </p>
     </div>
   </div>
 </section>
-
-
-
-
-<?php 
-include "includes/footer.php";
-?>
+<?php include __DIR__."/includes/footer.php"; ?>
