@@ -43,8 +43,7 @@
 
 	<!-- script references -->
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
-		<script src="javascripts/bootstrap.min.js"></script>
-		<script src="javascripts/scripts.js"></script>
+		<script src="/bstheme/js/bootstrap.min.js"></script>
+		<script src="/bstheme/js/scripts.js"></script>
 	</body>
 </html>
-

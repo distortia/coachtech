@@ -1,26 +1,22 @@
-<?php 
-include "includes/header.php"; 
-?>
-
-
-<section class="container-fluid" id="section1">
-  	<h1 class="text-center v-center">Sectionalize.</h1>
+<?php include  __DIR__."/includes/header.php"; ?>
+<section class="container-fluid" id="home">
+  	<h1 class="text-center v-center">Coach Tech RV Services</h1>
  	
   	<div class="container">
       <div class="row">
           <div class="col-sm-4">
             <div class="row">
-              <div class="col-sm-10 col-sm-offset-2 text-center"><h3>Robust</h3><p>There is other content and snippets of details or features that can be placed here..</p><i class="fa fa-cog fa-5x"></i></div>
+              <div class="col-sm-10 col-sm-offset-2 text-center"><h3>Customer Centered</h3><p>Putting Your Needs First</p><i class="fa fa-exclamation-triangle fa-5x"></i></div>
             </div>
           </div>
           <div class="col-sm-4 text-center">
             <div class="row">
-              <div class="col-sm-10 col-sm-offset-1 text-center"><h3>Simple</h3><p>You may also want to create content that compells users to scroll down more..</p><i class="fa fa-user fa-5x"></i></div>
+              <div class="col-sm-10 col-sm-offset-1 text-center"><h3>Professional</h3><p>Highest Quality Parts and Craftsmenship </p><i class="fa fa-wrench fa-5x"></i></div>
             </div>
           </div>
           <div class="col-sm-4 text-center">
             <div class="row">
-              <div class="col-sm-10 text-center"><h3>Clean</h3><p>In the first 30 seconds of a user's visit to your site they decide if they're going to stay..</p><i class="fa fa-mobile fa-5x"></i></div>
+              <div class="col-sm-10 text-center"><h3>Personable</h3><p>Customers Aren't Just clients, They Are Family</p><i class="fa fa-mobile fa-5x"></i></div>
             </div>
           </div>
       </div><!--/row-->
@@ -28,21 +24,23 @@ include "includes/header.php";
   </div><!--/container-->
 </section>
 
-<section class="container-fluid" id="section2">
+<section class="container-fluid" id="about">
   <div class="row">
   	<div class="col-sm-8 col-sm-offset-2 text-center">
-        <h1>What is Bootstrap?</h1>
+        <h1>What is Coach Tech?</h1>
         <br>
-		<p class="lead">Bootstrap is a free collection of tools for creating websites and web applications. It contains HTML and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. It is the No.1 project on GitHub with 65,000+ stars and 23,800 forks (as of March 2014) [1] and has been used by NASA and MSNBC, among many others..</p>
+		<p class="lead">Coach Tech is based on the belief that our customers' needs are of the utmost importance. 
+    Our entire team is committed to meeting those needs. As a result, a high percentage of our business is from repeat customers and referrals.
+    We would welcome the opportunity to earn your trust and deliver you the best service in the industry.
+    </p>
         <br> 
-      	<i style="font-size:120px" class="fa fa-camera fa-5x"></i>
-      	<p>Big 'ol Camera Icon</p>
+      	<i style="font-size:120px" class="fa fa-bus fa-5x"></i>
     </div>
   </div>
 </section>
 
-<section class="container-fluid" id="section3">
-	<h1 class="text-center">Bootstrap is Responsive</h1>
+<section class="container-fluid" id="dometic">
+	<h1 class="text-center">We are a factory authorized service center for all Dometic products including a complete line of parts, accessories and marine refrigerators.</h1>
     <div class="row">
       <div class="col-sm-6 col-sm-offset-3">
         <h3 class="text-center">Vertical scrolling has become a popular and lasting trend in Web design.</h3>
@@ -58,8 +56,8 @@ include "includes/header.php";
    </div>
 </section>
 
-<section class="container-fluid" id="section4">
-	<h2 class="text-center">Change this Content. Change the world.</h2>
+<section class="container-fluid" id="catalog">
+	<h2 class="text-center">Please check out our catalog of parts and accessories!</h2>
     <div class="row">
       <div class="col-sm-8 col-sm-offset-2">
       <img src="/assets/example/bg_smartphones.jpg" class="img-responsive center-block ">
@@ -68,7 +66,7 @@ include "includes/header.php";
     </div>
 </section>
 
-<section class="container-fluid" id="section5">
+<section class="container-fluid" id="testimonial">
   <div class="col-sm-10 col-sm-offset-1">
     <div class="container">
     <div class="row">
@@ -174,8 +172,8 @@ include "includes/header.php";
     
 </section>
 
-<section class="container" id="section7">
-	<h1 class="text-center">Social Media Fascination</h1>
+<section class="container" id="contactus">
+	<h1 class="text-center">Contact us!</h1>
     <div class="row">
       <!--fontawesome icons-->
       <div class="col-sm-1 col-sm-offset-2 col-xs-4 text-center">
@@ -207,15 +205,9 @@ include "includes/header.php";
   	<div class="col-md-12 text-center">
       <br><br>
       <p>
-    	<a href="http://www.bootstrapzero.com/bootstrap-template/sectionalize">Get the code for this template.</a>
+    	Stuff here
       </p>
     </div>
   </div>
 </section>
-
-
-
-
-<?php 
-include "includes/footer.php";
-?>
+<?php include __DIR__."/includes/footer.php"; ?>
