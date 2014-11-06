@@ -34,6 +34,7 @@
     We would welcome the opportunity to earn your trust and deliver you the best service in the industry.
     </p>
         <br> 
+        Pic of RV and family here
       	<i style="font-size:120px" class="fa fa-bus fa-5x"></i>
     </div>
   </div>
@@ -61,7 +62,7 @@
     <div class="row">
       <div class="col-sm-8 col-sm-offset-2">
       <img src="/assets/example/bg_smartphones.jpg" class="img-responsive center-block ">
-      <p class="text-center">Images will scale down proportionately as browser width narrows.</p>
+      <p class="text-center">Inside, you will find all the parts and accessories we support and service.</p>
       </div>
     </div>
 </section>
@@ -173,7 +174,8 @@
 </section>
 
 <section class="container" id="contactus">
-	<h1 class="text-center">Contact us!</h1>
+	<h1 class="text-center">What are you waiting for?</h1>
+  <h3 class="text-center"> Let us help you get back to where you want to be!</h3>
     <div class="row">
       <!--fontawesome icons-->
       <div class="col-sm-1 col-sm-offset-2 col-xs-4 text-center">

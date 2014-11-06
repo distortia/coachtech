@@ -8,35 +8,28 @@ in your HTML file.
 license: MIT
 author: bootply.com
 */
-/* line 12, ../sass/styles.scss */
-html, body {
-  height: 100%;
-  background: center no-repeat fixed url("/bstheme/images/landscape.jpg");
-  background-size: cover;
-}
-
-/* line 18, ../sass/styles.scss */
+/* line 13, ../sass/styles.scss */
 .icon-bar {
   background-color: #fff;
 }
 
-/* line 22, ../sass/styles.scss */
+/* line 17, ../sass/styles.scss */
 .navbar-trans {
   background-color: #85725E;
   color: #fff;
 }
 
-/* line 27, ../sass/styles.scss */
+/* line 22, ../sass/styles.scss */
 .navbar-trans li > a:hover, .navbar-trans li > a:focus, .navbar-trans li.active {
   background-color: #E8C868;
 }
 
-/* line 31, ../sass/styles.scss */
+/* line 26, ../sass/styles.scss */
 .navbar-trans a {
   color: #fefefe;
 }
 
-/* line 35, ../sass/styles.scss */
+/* line 30, ../sass/styles.scss */
 .navbar-trans .form-control:focus {
   border-color: #eee;
   outline: 0;
@@ -44,66 +37,66 @@ html, body {
   box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(100, 100, 100, 0.6);
 }
 
-/* line 42, ../sass/styles.scss */
+/* line 37, ../sass/styles.scss */
 section {
   padding-top: 70px;
   padding-bottom: 50px;
   min-height: calc(100% - 1px);
 }
 
-/* line 48, ../sass/styles.scss */
+/* line 43, ../sass/styles.scss */
 .v-center {
   padding-top: 10%;
   font-size: 70px;
 }
 
-/* line 53, ../sass/styles.scss */
+/* line 48, ../sass/styles.scss */
 .well {
   border-color: transparent;
 }
 
-/* line 57, ../sass/styles.scss */
+/* line 52, ../sass/styles.scss */
 a.list-group-item.active, [class*='-info'] {
   background-color: #168ccc;
   color: #fff;
 }
 
-/* line 62, ../sass/styles.scss */
+/* line 57, ../sass/styles.scss */
 #home {
-  background-color: rgba(245, 245, 245, 0.4);
+  background-color: rgba(245, 245, 245, 0.65);
   color: #893823;
 }
 
-/* line 67, ../sass/styles.scss */
+/* line 62, ../sass/styles.scss */
 #about {
   background-color: #EFE8C5;
   color: #686868;
 }
 
-/* line 72, ../sass/styles.scss */
+/* line 67, ../sass/styles.scss */
 #dometic {
-  background-color: #893823;
+  background-color: rgba(137, 56, 35, 0.75);
   color: #ddd;
 }
 
-/* line 77, ../sass/styles.scss */
+/* line 72, ../sass/styles.scss */
 #catalog {
   background-color: #fff;
   color: #444;
 }
 
-/* line 82, ../sass/styles.scss */
+/* line 77, ../sass/styles.scss */
 #testimonial, #section7, #contactus a {
   color: #893823;
 }
 
-/* line 86, ../sass/styles.scss */
+/* line 81, ../sass/styles.scss */
 #section6 {
   background-color: #168ccc;
   color: #ddd;
 }
 
-/* line 91, ../sass/styles.scss */
+/* line 86, ../sass/styles.scss */
 footer {
   background-color: #494949;
   color: #ddd;
@@ -112,19 +105,19 @@ footer {
   padding-bottom: 40px;
 }
 
-/* line 99, ../sass/styles.scss */
+/* line 94, ../sass/styles.scss */
 footer .nav > li > a {
   padding: 3px;
   color: #ccc;
 }
 
-/* line 104, ../sass/styles.scss */
+/* line 99, ../sass/styles.scss */
 footer .nav > li > a:hover {
   background-color: transparent;
   color: #fff;
 }
 
-/* line 109, ../sass/styles.scss */
+/* line 104, ../sass/styles.scss */
 .navbar-brand img {
   height: 62px;
   width: 62px;

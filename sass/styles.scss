@@ -9,11 +9,6 @@ license: MIT
 author: bootply.com
 */
 
-html,body {
-    height:100%;
-    background:center no-repeat fixed url('/bstheme/images/landscape.jpg');
-    background-size: cover;
-}
 
 .icon-bar {
     background-color:#fff;
@@ -60,7 +55,7 @@ a.list-group-item.active,[class*='-info'] {
 }
   
 #home {
-    background-color: rgba(245, 245, 245, 0.40);
+    background-color: rgba(245, 245, 245, 0.65);
     color:#893823;
 }
   
@@ -70,7 +65,7 @@ a.list-group-item.active,[class*='-info'] {
 }
   
 #dometic {
-    background-color: #893823;
+    background-color: rgba(137,56,35,0.75);
     color:#ddd;
 }
 

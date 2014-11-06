@@ -1,5 +1,6 @@
 
-$(document).ready(function(){/* activate scrollspy menu */
+$(document).ready(function(){
+
 $('body').scrollspy({
   target: '#navbar-collapsible',
   offset: 50
@@ -17,6 +18,4 @@ $('a[href*=#]:not([href=#])').click(function() {
         return false;
       }
     }
-});
-
 });
