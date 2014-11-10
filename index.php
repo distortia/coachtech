@@ -1,4 +1,4 @@
-<?php include  __DIR__."/includes/header.php"; ?>
+<?php include "/includes/header.php"; ?>
 <section class="container-fluid" id="home">
   	<h1 class="text-center v-center">Coach Tech RV Services</h1>
  	
@@ -182,7 +182,7 @@
        	<a href="https://www.facebook.com/pages/Coach-Tech-RV/557824797659526"><i class="fa fa-facebook fa-4x"></i></a>
       </div>
       <div class="col-sm-4 col-sm-offset-2 col-xs-4">
-       <a href="http://www.bbb.org/toledo/business-reviews/recreational-vehicles-equipment-parts-supplies/coach-tech-rv-in-maumee-oh-90051097/complaints#breakdown"><img src="/coachtech/images/bbb.png"/></a>
+       <a href="http://www.bbb.org/toledo/business-reviews/recreational-vehicles-equipment-parts-supplies/coach-tech-rv-in-maumee-oh-90051097/complaints#breakdown"><img src="/images/bbb.png"/></a>
       </div>
       </div>
   </div><!--/row-->
@@ -195,4 +195,4 @@
     </div>
   </div>
 </section>
-<?php include __DIR__."/includes/footer.php"; ?>
+<?php include "/includes/footer.php"; ?>

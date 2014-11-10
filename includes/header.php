@@ -6,12 +6,12 @@
 		<title>Coach Tech RV Services - Ottawa Lake, MI</title>
 		<meta name="generator" content="Bootply" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-		<link href="/coachtech/css/bootstrap.min.css" rel="stylesheet">
+		<link href="/css/bootstrap.min.css" rel="stylesheet">
 		<link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 		<!--[if lt IE 9]>
 			<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
-		<link href="/coachtech/css/styles.css" rel="stylesheet">
+		<link href="/css/styles.css" rel="stylesheet">
   <?php include 'background.php'; ?>
 
 <script>
