@@ -178,29 +178,12 @@
   <h3 class="text-center"> Let us help you get back to where you want to be!</h3>
     <div class="row">
       <!--fontawesome icons-->
-      <div class="col-sm-1 col-sm-offset-2 col-xs-4 text-center">
-       <i class="fa fa-github fa-4x"></i>
+      <div class="col-sm-4 col-sm-offset-2 col-xs-4">
+       	<a href="https://www.facebook.com/pages/Coach-Tech-RV/557824797659526"><i class="fa fa-facebook fa-4x"></i></a>
       </div>
-      <div class="col-sm-1 col-xs-4 text-center">
-       <i class="fa fa-foursquare fa-4x"></i>
+      <div class="col-sm-4 col-sm-offset-2 col-xs-4">
+       <a href="http://www.bbb.org/toledo/business-reviews/recreational-vehicles-equipment-parts-supplies/coach-tech-rv-in-maumee-oh-90051097/complaints#breakdown"><img src="/coachtech/images/bbb.png"/></a>
       </div>
-      <div class="col-sm-1 col-xs-4 text-center">
-       	<i class="fa fa-facebook fa-4x"></i>
-      </div>
-      <div class="col-sm-1 col-xs-4 text-center">
-       <i class="fa fa-pinterest fa-4x"></i>
-      </div>
-      <div class="col-sm-1 col-xs-4 text-center">
-       <i class="fa fa-google-plus fa-4x"></i>
-      </div>
-      <div class="col-sm-1 col-xs-4 text-center">
-       <i class="fa fa-twitter fa-4x"></i>
-      </div>
-      <div class="col-sm-1 col-xs-4 text-center">
-       <i class="fa fa-dribbble fa-4x"></i>
-      </div>
-      <div class="col-sm-1 col-xs-4 text-center">
-       <i class="fa fa-instagram fa-4x"></i>
       </div>
   </div><!--/row-->
   <div class="row">
